@@ -217,4 +217,9 @@ npm install -g @google/gemini-cli@preview
   [#27346](https://github.com/google-gemini/gemini-cli/pull/27346)
 
 **Full Changelog**:
+https://github.com/google-gemini/gemini-cli/compare/v0.43.0-preview.1...v0.45.0-preview.1
+ze issue triage and lifecycle management by @cocosheng-g in
+[#27346](https://github.com/google-gemini/gemini-cli/pull/27346)
+
+**Full Changelog**:
 https://github.com/google-gemini/gemini-cli/compare/v0.43.0-preview.1...v0.44.0-preview.0
